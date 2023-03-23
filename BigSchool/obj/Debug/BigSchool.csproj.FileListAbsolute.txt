@@ -110,3 +110,4 @@ D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources

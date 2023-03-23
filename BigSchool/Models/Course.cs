@@ -14,7 +14,6 @@ namespace BigSchool.Models
         public string LecturerId { get; set; }
 
         [Required]
-
         [StringLength(255)] 
         public string Place { get; set; }
 
