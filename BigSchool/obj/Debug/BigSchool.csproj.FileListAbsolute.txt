@@ -111,3 +111,11 @@ D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
 D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+D:\bt\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+D:\bt\BigSchool\BigSchool\bin\System.Web.Http.dll
+D:\bt\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+D:\bt\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+D:\bt\BigSchool\BigSchool\bin\System.Web.Http.xml
+D:\bt\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+D:\bt\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
